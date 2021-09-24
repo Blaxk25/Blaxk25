@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maraz-Dev
-- 👀 I’m interested in Mobile App Dev
+- 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning Flutter/Dart Language
 - 💞️ I’m looking to collaborate on Any Mobile Develoment Project
 - 📫 How to reach me:
