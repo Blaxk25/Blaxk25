@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Maraz-Dev
-- 👀 I’m interested in Mobile App Development (Cross Platform)
-- 🌱 I’m currently learning Flutter/Dart Language
-- 💞️ I’m looking to collaborate on Any Mobile Develoment Project
+- 👋 Hi, I’m @Maraz Dev
+- 👀 I’m interested in Mobile App Development (Cross Platform) and Web Design
+- 🌱 I currently use Flutter/Dart Language and WordPress
+- 💞️ I’m looking to collaborate on Any Mobile Develoment Project or Wed Design Projectlnk
 - 📫 How to reach me:
 - Twitter: https://twitter.com/maraz_devv
 
